@@ -44,6 +44,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-%23E5E9F0.svg?style=for-the-badge&logo=firebase&logoColor=3B4252)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-%23E5E9F0.svg?style=for-the-badge&logo=influxdb&logoColor=3B4252)
 
+<!--
 #### Stats
 
 <a href="https://github.com/adriangitvitz">
@@ -52,7 +53,7 @@
 <a href="https://github.com/adriangitvitz">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=adriangitvitz&show_icons=true&theme=default#gh-light-mode-only" />
 </a>
-
+-->
 
 <!--
 **adriangitvitz/adriangitvitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
